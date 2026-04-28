@@ -1,0 +1,13 @@
+title: NIKO G
+description: Visual archive by Nicholas Gonzalez.
+url: "https://nikogphotos.com"
+baseurl: ""
+
+author:
+  name: Nicholas Gonzalez
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
